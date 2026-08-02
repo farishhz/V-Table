@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prepare": "husky install",
+    "prepare": "husky install || true",
     "type-check": "tsc --noEmit",
     "generate-themes-og-images": "node 'app/(navigation)/themes/lib/generate-og-images.js'"
   },
