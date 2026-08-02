@@ -7,7 +7,7 @@ const useAudio = (path: string): [boolean, () => void] => {
   if (isDev) {
     url = `http://localhost:3000/${path}`;
   } else {
-    url = `https://og-table/${path}`;
+    url = `https://V-Table/${path}`;
   }
 
   const audio = useMemo(() => new Audio(url), [url]);

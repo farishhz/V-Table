@@ -11,8 +11,8 @@ import { Suspense } from "react";
 
 const inter = Inter({ subsets: ["latin"], weight: ["400", "500"], display: "swap" });
 
-const title = "og-table.com";
-const description = "og-table";
+const title = "V-Table.com";
+const description = "V-Table";
 
 export const metadata = {
   metadataBase: new URL(BASE_URL),
@@ -20,7 +20,7 @@ export const metadata = {
   description: description,
   openGraph: {
     type: "website",
-    siteName: "og-table.com",
+    siteName: "V-Table.com",
   },
   twitter: {
     card: "summary_large_image",

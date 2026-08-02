@@ -13,7 +13,7 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        hostname: "files.og-table.com",
+        hostname: "files.V-Table.com",
         protocol: "https",
       },
     ],
@@ -82,10 +82,10 @@ const nextConfig = {
         has: [
           {
             type: "host",
-            value: "icon.og-table",
+            value: "icon.V-Table",
           },
         ],
-        destination: "https://og-table/icon/:path*",
+        destination: "https://V-Table/icon/:path*",
         permanent: true,
       },
       {
@@ -93,10 +93,10 @@ const nextConfig = {
         has: [
           {
             type: "host",
-            value: "icons.og-table",
+            value: "icons.V-Table",
           },
         ],
-        destination: "https://og-table/icon/:path*",
+        destination: "https://V-Table/icon/:path*",
         permanent: true,
       },
       {
@@ -104,10 +104,10 @@ const nextConfig = {
         has: [
           {
             type: "host",
-            value: "prompts.og-table",
+            value: "prompts.V-Table",
           },
         ],
-        destination: "https://og-table/prompts/:path*",
+        destination: "https://V-Table/prompts/:path*",
         permanent: true,
       },
       {
@@ -115,10 +115,10 @@ const nextConfig = {
         has: [
           {
             type: "host",
-            value: "presets.og-table",
+            value: "presets.V-Table",
           },
         ],
-        destination: "https://og-table/presets/:path*",
+        destination: "https://V-Table/presets/:path*",
         permanent: true,
       },
       {
@@ -126,10 +126,10 @@ const nextConfig = {
         has: [
           {
             type: "host",
-            value: "snippets.og-table",
+            value: "snippets.V-Table",
           },
         ],
-        destination: "https://og-table/snippets/:path*",
+        destination: "https://V-Table/snippets/:path*",
         permanent: true,
       },
       {
@@ -137,10 +137,10 @@ const nextConfig = {
         has: [
           {
             type: "host",
-            value: "themes.og-table",
+            value: "themes.V-Table",
           },
         ],
-        destination: "https://og-table/themes/:path*",
+        destination: "https://V-Table/themes/:path*",
         permanent: true,
       },
       {
@@ -148,10 +148,10 @@ const nextConfig = {
         has: [
           {
             type: "host",
-            value: "presets.og-table",
+            value: "presets.V-Table",
           },
         ],
-        destination: "https://og-table/api/:path*",
+        destination: "https://V-Table/api/:path*",
         permanent: true,
       },
       {
@@ -159,10 +159,10 @@ const nextConfig = {
         has: [
           {
             type: "host",
-            value: "snippets.og-table",
+            value: "snippets.V-Table",
           },
         ],
-        destination: "https://og-table/api/:path*",
+        destination: "https://V-Table/api/:path*",
         permanent: true,
       },
       {
@@ -170,10 +170,10 @@ const nextConfig = {
         has: [
           {
             type: "host",
-            value: "themes.og-table",
+            value: "themes.V-Table",
           },
         ],
-        destination: "https://og-table/api/:path*",
+        destination: "https://V-Table/api/:path*",
         permanent: true,
       },
     ];

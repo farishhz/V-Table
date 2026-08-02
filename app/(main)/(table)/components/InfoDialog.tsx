@@ -37,7 +37,7 @@ export function InfoDialog() {
               <p>Thats when I realized</p>
               <p className="italic">tables deserve better.</p>
               <p>
-                So I built Og Table, a tool to help people (like me) create tables that actually match the design they
+                So I built V Table, a tool to help people (like me) create tables that actually match the design they
                 are going for. Clean, customizable, export-ready, and easy to use.
               </p>
               <p className="font-bold">No more sad tables ruining beautiful slides.</p>
@@ -48,7 +48,7 @@ export function InfoDialog() {
 
             <div className="flex flex-col gap-3 flex-1 text-[13px] text-gray-11 leading-relaxed">
               <DialogTitle>About</DialogTitle>
-              <p>OG Table is a simple tool that lets you design beautiful tables for your next presentation</p>
+              <p>V Table is a simple tool that lets you design beautiful tables for your next presentation</p>
               <p>Just pick a theme, choose a background, and start filling in your table.</p>
               <p>
                 Want to customize the borders? Adjust the corners? Go for it. When youre happy with the result, hit

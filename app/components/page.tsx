@@ -50,7 +50,7 @@ export default function Components() {
   return (
     <div className="flex flex-col gap-12 items-start p-8">
       <h1 className="text-lg font-bold flex text-nowrap items-center gap-2">
-        <RaycastLogoNegIcon className="shrink-0 w-6 h-6" /> og-table Component Playground
+        <RaycastLogoNegIcon className="shrink-0 w-6 h-6" /> V-Table Component Playground
       </h1>
       <div className="flex flex-col gap-4 items-start">
         <h2 className="font-medium">Dropdown Menu</h2>

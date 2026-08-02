@@ -1,8 +1,8 @@
 import OgImage from "./og-image.png";
 import { Metadata } from "next";
 
-const title = "og-table Components";
-const description = "Component playground for the og-table ecosystem.";
+const title = "V-Table Components";
+const description = "Component playground for the V-Table ecosystem.";
 const ogUrl = OgImage.src;
 
 export const metadata: Metadata = {

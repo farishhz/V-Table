@@ -3,7 +3,7 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 const socialLinks = [
   {
-    href: "https://github.com/BroKarim",
+    href: "https://github.com/farishhz",
     label: "GitHub",
     icon: BrandGithubIcon,
   },
@@ -23,10 +23,10 @@ export function SocialFooter({ referral = "ray-so" }: { referral?: string }) {
           className="flex items-center gap-1.5 text-gray-12 group"
         >
           <Avatar>
-            <AvatarImage src="https://github.com/BroKarim.png" />
+            <AvatarImage src="https://github.com/farishhz.png" />
             <AvatarFallback>DZ</AvatarFallback>
           </Avatar>
-          <span className="text-[13px] font-medium group-hover:underline">Made by BroKarim</span>
+          <span className="text-[13px] font-medium group-hover:underline">Made by farishhz</span>
         </a>
         <div className="flex gap-3">
           {socialLinks.map((link) => (

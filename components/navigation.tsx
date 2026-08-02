@@ -12,7 +12,7 @@ export function Navigation() {
         <Button className="py-2  ">
           <Link href="/" className="mr-4 flex items-center justify-center gap-2 lg:mr-6">
             <Icons.logo3 className="size-12 opacity-80" />
-            {/* <span className="inline-flex  font-bold text-xl text-[#85A6A5] font-mono">og table</span> */}
+            {/* <span className="inline-flex  font-bold text-xl text-[#85A6A5] font-mono">V Table</span> */}
           </Link>
         </Button>
       </div>

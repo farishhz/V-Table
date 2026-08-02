@@ -1,13 +1,13 @@
 ## About
 
-OG Table is a simple tool that helps you design **beautiful, presentation-ready tables**.
+V Table is a simple tool that helps you design **beautiful, presentation-ready tables**.
 
 Pick a theme, choose a background, and start filling in your data.  
 No design skills required — just clean visuals that actually match your slides.
 
 ## ✨ What It Does
 
-OG Table lets you:
+V Table lets you:
 
 - Choose from clean, modern table themes
 - Customize backgrounds, borders, and corner radius
@@ -36,7 +36,7 @@ That’s when I realized:
 
 **tables deserve better.**
 
-So I built **OG Table** — a tool for people who care about design but still need tables that communicate clearly.
+So I built **V Table** — a tool for people who care about design but still need tables that communicate clearly.
 
 The goal was simple:
 
@@ -49,7 +49,7 @@ No more sad tables ruining beautiful slides.
 
 ## 🧱 Tech Stack
 
-OG Table is built with a modern frontend-focused stack:
+V Table is built with a modern frontend-focused stack:
 
 - **Framework**: Next.js
 - **UI & Components**: Radix UI + Tailwind
@@ -62,5 +62,5 @@ The stack is optimized for interactivity, performance, and a smooth design exper
 
 ---
 
-OG Table started as one of my very first projects, but the idea still holds strong:  
+V Table started as one of my very first projects, but the idea still holds strong:  
 **good design shouldn’t break the moment you add a table.**
