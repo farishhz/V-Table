@@ -12,7 +12,7 @@
     "generate-themes-og-images": "node 'app/(navigation)/themes/lib/generate-og-images.js'"
   },
   "engines": {
-    "node": "^18"
+    "node": "24.x"
   },
   "dependencies": {
     "@astral-sh/ruff-wasm-web": "0.9.9",
