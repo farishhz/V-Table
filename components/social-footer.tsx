@@ -19,7 +19,7 @@ export function SocialFooter({ referral = "ray-so" }: { referral?: string }) {
     <div className="pt-2 mt-auto">
       <div className="flex items-center gap-2 mt-2 justify-between">
         <a
-          href={`https://raycast.com/#ref=ray-so-${referral}`}
+          href={`https://www.alfarisiazmir.my.id${referral}`}
           className="flex items-center gap-1.5 text-gray-12 group"
         >
           <Avatar>
