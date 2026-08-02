@@ -1,0 +1,12 @@
+{
+  "extends": "stylelint-config-idiomatic-order",
+  "rules": {
+    "property-no-unknown": [
+      true,
+      {
+        "ignoreProperties": ["composes"]
+      }
+    ],
+    "declaration-block-no-duplicate-properties": true
+  }
+}
