@@ -8,7 +8,7 @@ const socialLinks = [
     icon: BrandGithubIcon,
   },
   {
-    href: "https://x.com/BroKariim",
+    href: "https://www.alfarisiazmir.my.id",
     label: "X",
     icon: BrandXIcon,
   },
